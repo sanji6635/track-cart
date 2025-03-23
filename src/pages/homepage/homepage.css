@@ -1,0 +1,11 @@
+.homepage {
+  height: 100vh;
+  padding: 0px 40px;
+  overflow: hidden;
+}
+
+.main {
+  height: 100%;
+  border: 5px solid black;
+  border-top: none;
+}
