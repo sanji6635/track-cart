@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import HOMEPAGE from "./pages/homepage/HOMEPAGE";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import { DataContext } from "./context/DataContextProvider";
