@@ -29,7 +29,7 @@ const Header = () => {
           </h3>
           <form onSubmit={handleSubmit}>
             <input
-              type="number"
+              type="text"
               value={trackingNumber}
               className="input"
               onChange={handleChange}
